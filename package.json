@@ -1,0 +1,33 @@
+{
+  "name": "normalise.scss",
+  "version": "1.0.0",
+  "description": "SCSS version of normalise.css v4.2.0 (http://necolas.github.io/normalize.css/)",
+  "main": "normalise.scss",
+  "keywords": [
+    "scss",
+    "css",
+    "sass",
+    "normalize",
+    "browser",
+    "render",
+    "reset"
+  ],
+  "files": [
+    "normalise.scss"
+  ],
+  "repository": "karloespiritu/normalise.scss",
+  "author": {
+    "name": "Karlo Espiritu",
+    "email": "karloespiritu@gmail.com",
+    "url": "http://karloespiritu.com"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/karloespiritu/normalise.scss/issues"
+  },
+  "homepage": "https://github.com/karloespiritu/normalise.scss#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/karloespiritu/normalise.scss.git"
+  },
+}
