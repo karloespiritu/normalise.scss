@@ -1,6 +1,6 @@
 # normalise.scss
 
-SCSS version of normalize.css v4.1.1 (http://necolas.github.io/normalize.css/)
+SCSS version of normalize.css v4.2.0 (http://necolas.github.io/normalize.css/)
 
 **NPM**
 
