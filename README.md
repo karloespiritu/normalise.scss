@@ -10,7 +10,7 @@ npm install --save normalise.scss
 
 **Download**
 
-See https://github.com/karloespiritu/BlackDoc/archive/master.zip
+See https://github.com/karloespiritu/normalise.scss/archive/master.zip
 
 
 ## What does it do?

@@ -1,6 +1,6 @@
 {
   "name": "normalise.scss",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "SCSS version of normalise.css v4.2.0 (http://necolas.github.io/normalize.css/)",
   "main": "normalise.scss",
   "keywords": [
